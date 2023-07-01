@@ -1,5 +1,5 @@
 # Android | Webview | Flutter
-[![F|]([logo.png](https://postimg.cc/FkgGSj4r)))](https://www.linkedin.com/in/br0farhan/)
+[![F|](https://i.postimg.cc/6qFPD0bv/logo.png)](https://www.linkedin.com/in/br0farhan/)
 
 
 
